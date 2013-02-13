@@ -7,7 +7,7 @@
 
 # variables
 dotfilesdir=~/.dotfiles    # dir where dotfiles lives
-files="bashrc vimrc"        # list of files or folders we will be symlink
+files="bashrc vimrc tmux.conf"        # list of files or folders we will be symlink
 
 # rename original version of our files incase we need to rollback
 for file in $files; do
