@@ -6,9 +6,6 @@
 " Also load indent files, to automatically do language-dependent indenting.
 filetype plugin indent on
 
-" Show line numbers
-set number
-
 " Use spaces instead of tabs
 set expandtab
 
